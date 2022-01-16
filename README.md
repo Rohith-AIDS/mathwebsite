@@ -214,7 +214,7 @@ Publish the website in the given URL.
         });
 
     </script>
-    <footer> <p class="by"><B>Developed by :javith</B></p></footer>
+    <footer> <p class="by"><B>Developed by :SV ROHITHKUMAR</B></p></footer>
 </body>
 </html>
 ```
