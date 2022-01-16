@@ -220,7 +220,7 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![gitlogo](MATH.png)
+![gitlogo](math.png)
 
 ## Result:
 
